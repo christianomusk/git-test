@@ -1,0 +1,3 @@
+# git-t
+
+Hmm documentation? maybe later...
